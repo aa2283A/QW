@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://pub-api-1.bianyuan.xyz/sub?target=clash&url=vless%3A%2F%2F4bfb3022-3e74-4779-81fd-79833a0438d6%40vammwthpcvcj.ap-northeast-1.clawcloudrun.com%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26path%3D%252f%23wqad-i1vp45s8%7Cvless%3A%2F%2F36032eb3-da9e-4bd7-9885-6846cfec0fdf%40vugbklaysjkd.us-west-1.clawcloudrun.com%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26path%3D%252f%23qwesd-0q7hs1sp%7Cvless%3A%2F%2Fae57adbc-75a9-47e3-8b0d-8b559fd7bd5d%40rbniplmcrftu.ap-southeast-1.clawcloudrun.com%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26path%3D%252f%23%25e6%2596%25b0%25e5%258a%25a0%25e5%259d%25a1-w5rzsib7&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini"
+    url: "https://github.geekery.cn/raw.githubusercontent.com/aa2283A/QW/refs/heads/main/dc.txt"
     type: http
     interval: 86400
     health-check:
