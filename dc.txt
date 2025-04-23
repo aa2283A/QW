@@ -1,3 +1,4 @@
 vless://fde84880-4612-44d8-a06c-5e9b177d25c4@vammwthpcvcj.ap-northeast-1.clawcloudrun.com:443?encryption=none&security=tls&type=ws&path=%2F#%E6%97%A5%E6%9C%AC-69A
 vless://36032eb3-da9e-4bd7-9885-6846cfec0fdf@vugbklaysjkd.us-west-1.clawcloudrun.com:443?encryption=none&security=tls&type=ws&path=%2f#qwesd-0q7hs1sp
-vless://ae57adbc-75a9-47e3-8b0d-8b559fd7bd5d@rbniplmcrftu.ap-southeast-1.clawcloudrun.com:443?encryption=none&security=tls&type=ws&path=%2f#%e6%96%b0%e5%8a%a0%e5%9d%a1-w5rzsib7
+vless://49aac953-0d7b-435f-bae6-eb084f45ca22@rbniplmcrftu.ap-southeast-1.clawcloudrun.com:443?encryption=none&security=tls&type=ws&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1-69A
+
