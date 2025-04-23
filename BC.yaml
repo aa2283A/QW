@@ -191,7 +191,7 @@ rules:
   - RULE-SET,Youtube / Domain,📹YouTube
   - RULE-SET,TikTok / Domain,🎵TikTok
   - RULE-SET,Netflix / Domain,🎥Netflix
-  - RULE-SET,Netflix / IP,Netflix,no-resolve
+  - RULE-SET,Netflix / IP,🎥Netflix,no-resolve
   - RULE-SET,Disney / Domain,🏖️Disney
   - RULE-SET,HBO / Domain,✅HBO
   - RULE-SET,Spotify / Domain,🪂Spotify
@@ -203,13 +203,13 @@ rules:
   - RULE-SET,Sony / Domain,🕹️Game
   - RULE-SET,Nintend / Domain,🕹️Game
   - RULE-SET,Google / Domain,🍀Google
-  - RULE-SET,Google / IP,Google,no-resolve
+  - RULE-SET,Google / IP,🍀Google,no-resolve
   - RULE-SET,TEST / Domain,🌸Test
   - RULE-SET,Proxy / Domain,🌍国外
   - RULE-SET,Globe / Domain,🌍国外  
   - RULE-SET,Direct / Domain,🇨🇳国内
   - RULE-SET,China / Domain,🇨🇳国内
-  - RULE-SET,China / IP,国内,no-resolve
+  - RULE-SET,China / IP,🇨🇳国内,no-resolve
   - RULE-SET,Private / Domain,🇨🇳国内
   - MATCH,🗺️其他
 
