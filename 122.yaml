@@ -52,7 +52,7 @@ proxy-providers:
     proxy: 直连
 
   Airport6:
-    url: ""
+    url: "https://github.geekery.cn/raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
     type: http
     interval: 86400
     health-check:
